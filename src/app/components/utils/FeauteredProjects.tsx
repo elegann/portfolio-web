@@ -120,11 +120,11 @@ export function FeauteredProjects() {
       </BackgroundGradient>
       <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-white dark:bg-zinc-900">
         <h1 className="text-base sm:text-xl text-black mt-4 mb-2 dark:text-neutral-200 ">
-       Code Stodio Using Html Or Css.
+       Code Studio Using Html Or Css.
         </h1>
 
         <p className="text-sm text-neutral-600 dark:text-neutral-400 center">
-       I Have Use HTML CSS to make a Code Stodio
+       I Have Use HTML CSS to make a Code Studio
          </p>
         <button className="rounded-full pl-4 pr-1 py-1 text-white flex items-center space-x-1 bg-black mt-4 text-xs font-bold dark:bg-zinc-800">
           <span>See Now </span>
