@@ -134,7 +134,7 @@ export const TextRevealCardDescription = ({
 }) => {
   return (
     <p className={twMerge("text-[#a9a9a9] text-sm", className)}>{children}
-    And I'am A Web Developer</p>
+    And I&apos;am A Web Developer</p>
   );
 };
 

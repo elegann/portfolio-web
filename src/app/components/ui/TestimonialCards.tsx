@@ -1,31 +1,31 @@
 // 'use client'
 // import { InfiniteMovingCards } from "../ui/infinite-moving-cards";
 // quote:
-//  'Web development: Crafting digital worlds, pixel by pixel, for global audiences to explore and engage with. App development: Innovating personalized experiences, empowering users to navigate their digital lives with ease and efficiency. Together, they shape the landscape of our digital age, bridging gaps, sparking connections, and propelling us into a future limited only by imagination.'
+//  apos;Web development: Crafting digital worlds, pixel by pixel, for global audiences to explore and engage with. App development: Innovating personalized experiences, empowering users to navigate their digital lives with ease and efficiency. Together, they shape the landscape of our digital age, bridging gaps, sparking connections, and propelling us into a future limited only by imagination.'
 //  name:"Abu Bakar"
 // title:"Web Development"
 // {
 // };
 // quote:
-//  'Web development: Weaving code into captivating online experiences, where creativity meets functionality.'
+//  apos;Web development: Weaving code into captivating online experiences, where creativity meets functionality.'
 //  name:"Abu Bakar"
 // title:"Web Development"
 // {
 // }
 // quote:
-//  'App development: Turning ideas into interactive realities, enhancing lives through the touch of a screen.'
+//  apos;App development: Turning ideas into interactive realities, enhancing lives through the touch of a screen.'
 //  name:"Abu Bakar"
 // title:"Web Development"
 // {
 // }
 // quote:
-//  'Web development: Architecting virtual spaces where businesses thrive and users connect.'
+//  apos;Web development: Architecting virtual spaces where businesses thrive and users connect.'
 //  name:"Abu Bakar"
 // title:"Web Development"
 // {
 // }
 // quote:
-// 'App development: Empowering individuals with the tools to streamline tasks and enrich daily routines..'
+// apos;App development: Empowering individuals with the tools to streamline tasks and enrich daily routines..'
 // name:"Abu Bakar"
 // title:"Web Development"
 // function abzTestimonialCards() {

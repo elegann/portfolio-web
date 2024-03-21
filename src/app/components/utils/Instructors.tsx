@@ -1,5 +1,5 @@
 'use client'
-import { AnimatedTooltip } from "./ui/animated-tooltip"
+// import { AnimatedTooltip } from "./ui/animated-tooltip"
 const instructors = [
   {
       id: 1,
@@ -27,7 +27,7 @@ function Instructors() {
 return (
   <div className="releative h-[40rem] overflow-hidden flex items-center justify-centre ">
     <div className="flex flex-row items-center justify-center mb-10 w-full">
-      <AnimatedTooltip items={instructors} />
+      {/* <AnimatedTooltip items={instructors} /> */}
     </div>
   </div>
 )

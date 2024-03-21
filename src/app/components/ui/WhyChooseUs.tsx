@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { StickyScroll } from "./sticky-scroll-reveal";
+// import { StickyScroll } from "../sticky-scroll-reveal";
 import Image from "next/image"
 const webdevelopment = [
     {
@@ -49,7 +49,7 @@ const webdevelopment = [
 function WhyChooseUs() {
   return (
     <div>
-      <StickyScroll content={webdevelopment}></StickyScroll>
+      {/* <StickyScroll content={webdevelopment}></StickyScroll> */}
     </div>
   )
 }
