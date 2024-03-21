@@ -1,0 +1,14 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "HTML OR CSS",
+            "slug": "html fundamentals",
+            "descriptions": "Learn HTML OR CSS",
+            "price": "1000",
+            "instructor": "Abu Bakar",
+            "isfeautered": "true",
+            "image": "download.png"
+        }
+    ]
+}
